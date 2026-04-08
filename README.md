@@ -1,2 +1,2 @@
-# 22PC_-20XC87
-22PC Bach Mobile Sec packages
+# 22PC-20XC87
+22PC Batch Mobile Sec packages
